@@ -1,0 +1,25 @@
+{
+  "name": "path-replace-plus-loader",
+  "version": "1.0.0",
+  "description": "path replace loader(plus) for webpack",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "path",
+    "replace",
+    "webpack"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "pillys@163.com",
+  "repository": {
+    "url": "https://github.com/pillys/path-replace-plus-loader",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/pillys/path-replace-plus-loader/issues"
+  },
+  "homepage": "https://github.com/pillys/path-replace-plus-loader",
+  "license": "MIT"
+}
